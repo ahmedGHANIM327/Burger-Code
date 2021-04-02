@@ -3,4 +3,9 @@
 ---
 
 ## For the main page
-[lien] http://burger.ahmed-ghanim.com/
+[Link] http://burger.ahmed-ghanim.com/
+
+---
+
+## For the admin page
+[Link] http://burger.ahmed-ghanim.com/admin/
